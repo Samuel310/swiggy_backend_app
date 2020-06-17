@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "38662911765",
+    "firebase_url": "https://swiggy-backend.firebaseio.com",
+    "project_id": "swiggy-backend",
+    "storage_bucket": "swiggy-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38662911765:android:325a865536c65e2052db1c",
+        "android_client_info": {
+          "package_name": "com.ft4dflutter.swiggybackend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38662911765-48oqk31sv8ig7u2b6eemoadpftttp3uk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIZ8ruYAJ3pUj6l9itSpcSqbs6S7ctxlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38662911765-48oqk31sv8ig7u2b6eemoadpftttp3uk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
