@@ -37,7 +37,7 @@ class AuthService{
       }
     }
     else{
-      return 'Admin already exists';
+      return 'Account cannot be created';
     }
   }
 
